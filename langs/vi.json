@@ -1,0 +1,66 @@
+{
+    "language": "Tieng Viet",
+    "menu": [
+      "Bat Dau",
+      "Diem So",
+      "Ga-ra",
+      "Cai Dat",
+      "Thoat"
+    ],
+
+    "game_over": [
+      "Thua cuoc",
+      "Chi co vay\n thoi a?",
+      "Co co gang \nday, nhoc!"
+    ],
+  
+    "new_score": "Chuc mung!\nKi luc moi!",
+    "score_label": "Diem",
+    "option_back": "Tro ve",
+    "option_clear": "Xoa",
+    "high_scores": [
+      "Hang 1",
+      "Hang 2",
+      "Hang 3",
+      "Hang 4",
+      "Hang 5"
+    ],
+  
+    "cars_option": [
+      "Xe thuong",
+      "Audi",
+      "Black Viper"
+    ],
+  
+    "options": [
+      "Ngon ngu",
+      "Am thanh",
+      "Do kho",
+      "Dem nguoc"
+    ],
+  
+    "options_sound": [
+      "Bat",
+      "Tat"
+    ],
+  
+    "options_countdown": [
+      "Bat",
+      "Tat"
+    ],
+  
+    "pause_options": [
+      "Tiep tuc",
+      "Choi lai",
+      "Thoat"
+    ],
+    
+    "easy": "De",
+    "normal": "Binh Thuong",
+    "hard": "Kho",
+    "very_hard": "Cuc kho",
+    "countdown": [
+      "3", "2", "1", "DUA!"
+    ]
+  }
+  

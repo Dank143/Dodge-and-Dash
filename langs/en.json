@@ -1,0 +1,65 @@
+{
+    "language": "English",
+    "menu": [
+      "Start",
+      "High Scores",
+      "Garage",
+      "Options",
+      "Quit"
+    ],
+
+    "game_over": [
+      "GAME OVER",
+      "That's all \nyou got?",
+      "Nice try, kid!"
+    ],
+
+    "new_score": "Congratulation!\nNew high score!",
+    "score_label": "Score",
+    "option_back": "Back",
+    "option_clear": "Clear",
+    "high_scores": [
+      "1st",
+      "2nd",
+      "3rd",
+      "4th",
+      "5th"
+    ],
+
+    "cars_option": [
+      "Regular Car",
+      "Audi",
+      "Black Viper"
+    ],
+
+    "options": [
+      "Language",
+      "Sound",
+      "Difficulty",
+      "Countdown"
+    ],
+
+    "options_sound": [
+      "On",
+      "Off"
+    ],
+
+    "options_countdown": [
+      "On",
+      "Off"
+    ],
+
+    "pause_options": [
+      "Continue",
+      "Restart",
+      "Exit"
+    ],
+    
+    "easy": "Easy",
+    "normal": "Normal",
+    "hard": "Hard",
+    "very_hard": "Very hard",
+    "countdown": [
+      "3", "2", "1", "GO!"
+    ]
+}
